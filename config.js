@@ -36,9 +36,9 @@ module.exports = {
   },
 
   DASHBOARD: {
-    enabled: false, // enable or disable dashboard
-    baseURL: "https://mythicxv3.onrender.com", // base url
-    failureURL: "https://mythicxv3.onrender.com", // failure redirect url
+    enabled: true, // enable or disable dashboard
+    baseURL: "https://mythicx-vitn.onrender.com", // base url
+    failureURL: "https://mythicx-vitn.onrender.com", // failure redirect url
     port: "8080", // port to run the bot on
   },
 
